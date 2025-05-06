@@ -19,7 +19,7 @@ CSV Export for Power BI - Preparing data for visualization.
 Interactive Dashboards - Power BI reports for business intelligence
 
 Setup Instructions
-git clone https://github.com/YOUR-USERNAME/Data-Analytics-Project.git
+git clone https://github.com/thobanizondi/Data-Analytics-Project.git
 cd Data-Analytics-Project
 pip install -r requirements.txt
 python data_ingestion.py
