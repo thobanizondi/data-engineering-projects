@@ -20,14 +20,20 @@ Interactive Dashboards - Power BI reports for business intelligence
 
 Setup Instructions
 git clone https://github.com/thobanizondi/Data-Analytics-Project.git
+
 cd Data-Analytics-Project
+
 pip install -r requirements.txt
+
 python data_ingestion.py
+
 python export_to_csv.py
 
 Import CSV into Power BI
 Load dataset
+
 Apply transformations
+
 Create insights-driven dashboards
 
 Project Screenshots
